@@ -18,6 +18,7 @@
     - [Run tests](#run-tests)
     - [Deployment](#deployment)
   - [👥 Authors ](#-authors-)
+  - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
   - [🙏 Acknowledgments ](#-acknowledgments-)
@@ -111,6 +112,13 @@ You can deploy this project using: GitHub Pages Netifly or Render
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+## 🔭 Future Features <a name="future-features"></a>
+
+
+- [ ] **Add user authentications and authorizations**
+- [ ] **Allow user to add greetings**
+- [ ] **Allow users to send greetings between them**
 
 <!-- CONTRIBUTING -->
 
